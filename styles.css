@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.post{
+    width: 450px;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.body,.body img{
+    width: 100%;
+}
+.footer-icon{
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    display: flex;
+    align-items: center;
+}
+.left i{
+    font-size: 60px;
+}
+.left div p{
+    margin: 0;
+}
+.right i{
+    font-size: 30px;
+}
+.icon-left i{
+    font-size: 20px;
+}
+.icon-right i{
+    font-size: 20px;
+}
