@@ -1,8 +1,11 @@
 body{
+    background-color: black;
     display: flex;
     justify-content: center;
 }
 .post{
+    background-color: white;
+    padding: 10px;
     width: 450px;
 }
 .header{
